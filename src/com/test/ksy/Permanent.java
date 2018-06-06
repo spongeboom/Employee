@@ -1,6 +1,7 @@
 package com.test.ksy;
 
 public class Permanent extends Employee{
+	// 정규직 클래스
 	int salary, bonus;
 	
 	public int getSalary() {
