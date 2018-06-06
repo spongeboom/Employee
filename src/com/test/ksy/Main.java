@@ -4,12 +4,11 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.Scanner;
-
+// Main Class 
 public class Main {
 	static Permanent p = new Permanent();
 	static Temporary t = new Temporary();
 	static Scanner scan;
-	
 	public static void main(String[] args){
 		scan = new Scanner(System.in);
 		String Mmode,Smode = "";
