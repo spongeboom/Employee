@@ -1,7 +1,7 @@
 package com.test.ksy;
 
 public class Temporary extends Employee{
-	// 임시직 클래스
+	// 임시직 클래스 
 	int time,pay;
 	
 	public int getTime() {
