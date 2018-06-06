@@ -1,6 +1,6 @@
 package com.test.ksy;
 
-abstract class Employee {
+abstract class Employee { 
 	String name,phone;
 
 	public String getName() {
